@@ -47,8 +47,7 @@ const Search = ({
         </Button>
 
       </div>
-
-    </div>
+      </div>
   );
 };
 

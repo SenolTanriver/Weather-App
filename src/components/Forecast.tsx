@@ -24,7 +24,7 @@ const Forecast = ({ data }: Props): JSX.Element => {
 
 
     return (
-        <div>
+        <div className='main'>
             <div className="forecast">
 
                 <section className="section-1">
