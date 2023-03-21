@@ -1,4 +1,4 @@
-html,
+html, 
 body {
   height: 100%;
   margin: 0;
@@ -6,16 +6,13 @@ body {
 
 body {
   background-image: url("/public/bg.jpg");
-  background-size: cover;
+  background-size: auto;
   background-position: center;
-  position: relative;
-  z-index: 1;
 }
 
 .main {
   display: flex;
   justify-content: center;
-
 }
 
 .search-card {
@@ -47,8 +44,6 @@ body {
   gap: 5px
 }
 
-
-
 .forecast {
   width: 400px;
   background: rgba(230, 181, 98, 0.3);
@@ -57,11 +52,8 @@ body {
   justify-content: center;
   display: flex;
   align-items: center;
-  position: fixed;
-  bottom: 0;
-  top: 0;
-
 }
+
 
 .section-1-item-1 {
   margin-top: 6px;
@@ -127,12 +119,7 @@ body {
   grid-gap: 16px;
   padding: 10px;
 }
-/* 
-@media (max-width: 768px) {
-  .grid-container {
-    grid-template-columns: repeat(1, 1fr);
-  }
-} */
+
 
 .icons-main {
   background: rgba(230, 181, 98, 0.4);
