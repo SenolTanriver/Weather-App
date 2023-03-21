@@ -1,7 +1,5 @@
 ﻿# Weather-App
 
-# Weather-App
-
 <h1 align="center">Hi 👋, I'm Şenol Tanrıver</h1>
 <h3 align="center">frontend developer</h3>
 
